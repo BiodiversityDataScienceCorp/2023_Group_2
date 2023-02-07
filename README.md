@@ -8,4 +8,4 @@ Louis's favorite specie : I don't actually know what my favorite specie is but r
 
 Sidra's favorite specie: I think my favorite specie is orcas. It's interesting how there are two different types, resident and transient, and they have different diets. There are 3 different family groups of resident orcas in puget sound.
 
-Kayli's favorite species: My favorite species are dogs because there is such a large varitey breeds. Not to mention that they are amazing pets and friends. I am such a dog person and I could not imagine not having a dog. They have been my companions for most of my life.  
+Kayli's favorite species: My favorite species are dogs because there is such a large varitey breeds. Not to mention that they are amazing pets and friends. I am such a dog person and I could not imagine not having a dog. They have been my companions for most of my life
