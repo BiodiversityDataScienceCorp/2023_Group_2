@@ -38,11 +38,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-<<<<<<< HEAD
 
 github.R
-=======
-github.R
-
-
->>>>>>> 6eb8befa2d265d17baffba0e1525fbb39d07cb57
