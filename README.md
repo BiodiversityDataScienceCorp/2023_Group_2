@@ -1,11 +1,30 @@
-# 2023_Group_2
+# Pacific Martin *Martes Caurina* SSA
+Lilah, Louis, Kayli, Sidra
 
-Names: Lilah, Louis, Kayli, Sidra
+## Overview
 
-Lilah's favorite species: One of my favorite species is a nudibranch. They are very colorful slug like creatures that live in the ocean! I have seen a few species of them and hope to find more. One of the coolest looking nudibranch is the blue dragon. It collects poison from Portuguese Man 'o wars to use on prey.
+## Dependencies
+The following R packages are required
+- dismo
+- maps
+- maptools
+- raster
+- rJava
+- spocc
+- tidyverse
 
-Louis's favorite specie : I don't actually know what my favorite specie is but right now I'm thinking about the Emerald cockroach wasp, it's a parasitoid wasp (tiny wasp) that invenomates cockroaches. Their venom is incredible it zombifies the cockroach and then the wasp will bring it to it's nest where she will lay a single egg on it that will eventually hatch and devour the whole cockroach.
+## Data
+- marten.csv
+- wc2-5
+- cmip5
 
-Sidra's favorite specie: I think my favorite specie is orcas. It's interesting how there are two different types, resident and transient, and they have different diets. There are 3 different family groups of resident orcas in puget sound.
+## Outputs
 
-Kayli's favorite species: My favorite species are dogs because there is such a large varitey breeds. Not to mention that they are amazing pets and friends. I am such a dog person and I could not imagine not having a dog. They have been my companions for most of my life.  
+## Scripts
+- dataaquisitioncleaning.R
+- occurancemap.R
+- currentsdm.R
+- futuresdm.R 
+
+
+## Running the code
