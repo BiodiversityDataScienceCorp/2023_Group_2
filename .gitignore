@@ -42,3 +42,4 @@ vignettes/*.pdf
 github.R
 data/wc2-5/
 output/maxent_outputs_marten/
+data/cmip5/
