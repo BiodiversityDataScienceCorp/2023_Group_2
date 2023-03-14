@@ -1,5 +1,7 @@
 #run currentSDM.R first to
 #load libraries and climate data
+#map can changed based on when you load weather and marten data
+#or possibly the computer processor
 
 climList <- list.files(path = "data/wc2-5/", pattern = ".bil$", 
                        full.names = T) 
