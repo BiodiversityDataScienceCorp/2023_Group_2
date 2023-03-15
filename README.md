@@ -1,10 +1,10 @@
-# Martes Caurina SSA
+# Martes caurina SSA
 
-Lilah, Kayli, Louis, Sidra
+Lilah Shapiro, Kayli Navas, Louis Greenfield, Sidra Wernli
 
 ## Overview
 
-- Creating Species Occurence Maps and Species Distribution Models for Species Status Assessment of Martes Caurina
+- Creating Species Occurence Maps and Species Distribution Models for Species Status Assessment of Martes caurina
 
 ## Dependencies 
 
