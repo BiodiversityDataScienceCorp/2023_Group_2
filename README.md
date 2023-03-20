@@ -2,6 +2,12 @@
 
 Lilah Shapiro, Kayli Navas, Louis Greenfield, Sidra Wernli
 
+<figure>
+    <img src="/images/pacificmarten.jpg"
+         alt="Pacific Marten" width="50%">
+    <figcaption>Pacific Marten <a href="https://www.inaturalist.org/observations/22249209">iNaturalist</a></figcaption>
+</figure> 
+
 ## Overview
 
 - Creating Species Occurence Maps and Species Distribution Models for Species Status Assessment of Martes caurina
