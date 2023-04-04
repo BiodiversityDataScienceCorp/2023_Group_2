@@ -41,7 +41,7 @@ ggplot() +
   scale_size_area() +
   borders("world") +
   borders("state") +
-  labs(title = " Future SDM of M. caurina Under CMIP 5 Climate Conditions",
+  labs(title = expression(paste(" Future SDM of ",italic("M. caurina")," Under CMIP 5 Climate Conditions")),
        x = "longitude",
        y = "latitude",
        fill = "Env Suitability") +

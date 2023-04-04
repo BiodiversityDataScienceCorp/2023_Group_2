@@ -68,7 +68,7 @@ ggplot() +
   scale_size_area() +
   borders("world") +
   borders("state")+
-  labs(title = "SDM of M. caurina Under Current Climate Conditions",
+  labs(title = expression(paste("SDM of " ,italic("M. caurina"), " Under Current Climate Conditions")),
        x = "longitude",
        y = "latitude",
        fill = "Environmental \nSuitability") + # \n is a line break
