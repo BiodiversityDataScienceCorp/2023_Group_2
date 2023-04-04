@@ -26,9 +26,9 @@ The following  R packages are required (these will be installed in each file whe
 ## Structure
 
 ### Data
-  + wc2-5: climate data at 2.5 minute resolution from [WorldClim](http://www.worldclim.org) (_note_: this folder is not under version control, but will be created by running the setup script (`scr/setup.R`))
-  + cmip5: forcast climate data at 2.5 minute resolution from [WorldClim](http://www.worldclim.org). The data are for the year 2070, based on the IPSL-CM5A-LR model with an RCP of 4.5 CO<sub>2</sub>. For an examination of different forecast models, see [McSweeney et al. 2015](https://link.springer.com/article/10.1007/s00382-014-2418-8). To choose a different one, see the [documentation on WorldClim](http://www.worldclim.com/cmip5_5m)(_note_: this folder is not under version control, but will be created by running the currentsdm script (`scripts/futureSDM.R`)) 
-  + marten.csv: data harvested from [GBIF](https://www.gbif.org/) and [iNaturalist](https://www.inaturalist.org) for _Martes caurina_.
+  + wc2-5: climate data at 2.5 minute resolution from [WorldClim](http://www.worldclim.org) (_note_: this folder is not under version control, but will be created by running the setup script (`scr/setup.R`)) Last accessed **03/15/2023**
+  + cmip5: forcast climate data at 2.5 minute resolution from [WorldClim](http://www.worldclim.org). The data are for the year 2070, based on the IPSL-CM5A-LR model with an RCP of 4.5 CO<sub>2</sub>. For an examination of different forecast models, see [McSweeney et al. 2015](https://link.springer.com/article/10.1007/s00382-014-2418-8). To choose a different one, see the [documentation on WorldClim](http://www.worldclim.com/cmip5_5m)(_note_: this folder is not under version control, but will be created by running the currentsdm script (`scripts/futureSDM.R`)) Last accessed **03/15/2023** 
+  + marten.csv: data harvested from [GBIF](https://www.gbif.org/) and [iNaturalist](https://www.inaturalist.org) for _Martes caurina_. Last accessed **03/15/2023**
   
 ### Outputs
 + output
