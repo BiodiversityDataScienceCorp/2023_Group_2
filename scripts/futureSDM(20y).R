@@ -49,4 +49,4 @@ ggplot() +
 
 
 #Live ggsave here:
-ggsave(filename="futureSDM.jpg", plot=last_plot(), path="output", width=6.14, height=4.84, units="in")
+ggsave(filename="futureSDM(20y).jpg", plot=last_plot(), path="output", width=6.14, height=4.84, units="in")
