@@ -1,9 +1,9 @@
 #  Pacific Marten *Martes caurina* SSA
 
-Lilah Shapiro:lilahshapiro@lclark.edu 
-Sidra Wernli:  swernli@lclark.edu
-Kayli Navas: kaylinavas@arizona.edu 
-Louis Greenfield: lc20-0492@lclark.edu 
+-Lilah Shapiro: lilahshapiro@lclark.edu 
+-Sidra Wernli: swernli@lclark.edu
+-Kayli Navas: kaylinavas@arizona.edu
+-Louis Greenfield: lc20-0492@lclark.edu 
 
 <figure>
     <img src="/images/pacificmarten.jpg"
