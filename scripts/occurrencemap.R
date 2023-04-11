@@ -13,7 +13,7 @@ ymin <- min(marten$latitude)
 ggplot()+
   geom_polygon(data=wrld, mapping=aes(x=long, y=lat, group=group),fill="grey75",colour="grey60")+
   geom_point(data=marten, mapping=aes(x=longitude, y=latitude), show.legend = FALSE)+
-  labs(title="Species occurences of M. caurina")+
+  labs(title=expression(paste("Species occurences of " ,italic("M. caurina"))))+
   coord_fixed(xlim=c(xmin,xmax), ylim=c(ymin,ymax))+
   scale_size_area()+
   borders("state")
