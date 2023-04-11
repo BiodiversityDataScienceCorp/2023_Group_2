@@ -41,7 +41,7 @@ ggplot() +
   scale_size_area() +
   borders("world") +
   borders("state") +
-  labs(title = expression(paste(" Future SDM of ",italic("M. caurina")," Under CMIP 5 Climate Conditions")),
+  labs(title = " Future SDM of M. caurina Under CMIP 5 Climate Conditions",
        x = "longitude",
        y = "latitude",
        fill = "Env Suitability") +
@@ -49,4 +49,4 @@ ggplot() +
 
 
 #Live ggsave here:
-ggsave(filename="futureSDM(70y).jpg", plot=last_plot(), path="output", width=6.14, height=4.84, units="in")
+ggsave(filename="futureSDM.jpg", plot=last_plot(), path="output", width=6.14, height=4.84, units="in")
