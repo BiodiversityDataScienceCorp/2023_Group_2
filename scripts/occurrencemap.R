@@ -5,7 +5,7 @@ marten <- read_csv("data/marten.csv")
 
 #finding the bounds for the map
 xmax <- max(marten$longitude)
-xmin <- min(cleanMarten$longitude)
+xmin <- min(marten$longitude)
 ymax <- max(marten$latitude)
 ymin <- min(marten$latitude)
 
